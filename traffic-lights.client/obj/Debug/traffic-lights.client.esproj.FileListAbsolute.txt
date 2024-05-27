@@ -1,0 +1,1 @@
+D:\Learning\DotnetBasic\traffic-lights-2\traffic-lights\traffic-lights.client\obj\Debug\traffic-lights.client.esproj.CoreCompileInputs.cache

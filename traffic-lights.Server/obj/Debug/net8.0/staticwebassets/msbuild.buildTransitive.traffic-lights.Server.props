@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\traffic-lights.Server.props" />
+</Project>

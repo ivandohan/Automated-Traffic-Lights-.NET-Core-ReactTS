@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "K51dHMXKVz5Vw630YqkCct1iPcqoYNvW0VdG98Q3hc8=",
+  "Source": "traffic-lights.Server",
+  "BasePath": "_content/traffic-lights.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Learning\\DotnetBasic\\traffic-lights-2\\traffic-lights\\traffic-lights.client\\traffic-lights.client.esproj",
+      "Version": 2,
+      "Source": "traffic-lights.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

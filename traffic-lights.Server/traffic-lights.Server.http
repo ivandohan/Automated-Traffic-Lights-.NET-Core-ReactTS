@@ -1,0 +1,6 @@
+@traffic_lights.Server_HostAddress = http://localhost:5270
+
+GET {{traffic_lights.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
