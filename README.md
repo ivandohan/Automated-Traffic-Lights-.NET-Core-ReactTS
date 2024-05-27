@@ -9,6 +9,6 @@ You seek & peek my configuration at vite.config.ts file in client dir. You can m
 ## 😹💼
 
 ```js
-API: @:7176 (only if you not bundling any args in cli)
+API: @:7176 (if only you not bundling any args in cli)
 Client: @:5173 (see vite.config.ts)
 ```
